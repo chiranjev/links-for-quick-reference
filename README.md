@@ -15,4 +15,4 @@ This repository contains links to various stuff related to programming.
 
 ## **4. Jupyter notebook shortcuts
 
-[Jupyter shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
+[Jupyter notebook shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
