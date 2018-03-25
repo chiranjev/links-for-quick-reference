@@ -12,3 +12,7 @@ This repository contains links to various stuff related to programming.
 ## **3. Selenium webdriver cheatsheet**
 
 [Selenium cheatsheet](https://codoid.com/selenium-webdriver-python-cheat-sheet/)
+
+## **4. Jupyter notebook shortcuts
+
+[Jupyter shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
