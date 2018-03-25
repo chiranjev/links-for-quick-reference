@@ -16,3 +16,6 @@ This repository contains links to various stuff related to programming.
 ## **4. Jupyter notebook shortcuts
 
 [Jupyter notebook shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
+
+## **5. Numpy
+[Numpy](https://github.com/juliangaal/python-cheat-sheet/blob/master/NumPy/NumPy.md)
