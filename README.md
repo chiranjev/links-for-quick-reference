@@ -19,3 +19,6 @@ This repository contains links to various stuff related to programming.
 
 ## **5. Numpy
 [Numpy](https://github.com/juliangaal/python-cheat-sheet/blob/master/NumPy/NumPy.md)
+
+## **6. Python Web scraping
+[Web Scraping Reference: A Simple Cheat Sheet for Web Scraping with Python](https://blog.hartleybrody.com/web-scraping-cheat-sheet/#writing-to-a-sqlite-database)
