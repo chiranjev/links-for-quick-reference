@@ -27,6 +27,8 @@ This repository contains links to various stuff related to programming.
 
 ## **7. GitHub
 
+[Contributing on open source project course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
 [Contributing on open source project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 
 [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
