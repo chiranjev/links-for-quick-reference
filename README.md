@@ -18,7 +18,15 @@ This repository contains links to various stuff related to programming.
 [Jupyter notebook shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 
 ## **5. Numpy
+
 [Numpy](https://github.com/juliangaal/python-cheat-sheet/blob/master/NumPy/NumPy.md)
 
 ## **6. Python Web scraping
+
 [Web Scraping Reference: A Simple Cheat Sheet for Web Scraping with Python](https://blog.hartleybrody.com/web-scraping-cheat-sheet/#writing-to-a-sqlite-database)
+
+## **7. GitHub
+
+[Contributing on open source project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
+[Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
